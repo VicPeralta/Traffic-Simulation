@@ -1,0 +1,13 @@
+*.obj
+*.o
+*.pdb
+*.idb
+.vscode
+*.ilk
+*.log
+*.tlog
+debug/
+.vs/
+*.exe
+*.bin
+build
